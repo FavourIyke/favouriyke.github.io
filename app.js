@@ -220,10 +220,10 @@ function scoreRender(){
               (scorePerCent >= 0) ? "Try harder," :
               "gg";
               
-    let img = (scorePerCent >= 70) ? "images/a.webp":
+    let img = (scorePerCent >= 70) ? "Images/a.webp":
               (scorePerCent >= 60) ? "images/b.gif" :
-              (scorePerCent >= 50) ? "images/c.gif" :
-              (scorePerCent >= 40) ? "images/d.webp" :
+              (scorePerCent >= 50) ? "Images/c.gif" :
+              (scorePerCent >= 40) ? "Images/d.webp" :
               "images/d.webp";
 
   //  document.getElementById("scoreCon").innerHTML = "<img src="+ img +">";
