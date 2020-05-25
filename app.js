@@ -223,7 +223,7 @@ function scoreRender(){
               (scorePerCent >= 60) ? "images/c.gif" :
               (scorePerCent >= 50) ? "Images/c.gif" :
               (scorePerCent >= 40) ? "Images/d.webp" :
-              "images/d.webp";
+              "Images/d.webp";
 
   //  document.getElementById("scoreCon").innerHTML = "<img src="+ img +">";
   document.getElementById("quizEnd").style.display = "block";
