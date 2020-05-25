@@ -220,7 +220,7 @@ function scoreRender(){
               "Try harder";
               
     let img = (scorePerCent >= 70) ? "Images/a.webp":
-              (scorePerCent >= 60) ? "images/c.gif" :
+              (scorePerCent >= 60) ? "Images/c.gif" :
               (scorePerCent >= 50) ? "Images/c.gif" :
               (scorePerCent >= 40) ? "Images/d.webp" :
               "Images/d.webp";
