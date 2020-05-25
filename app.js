@@ -216,12 +216,11 @@ function scoreRender(){
              (scorePerCent >= 70) ? "Great Job," :
               (scorePerCent >= 60) ? "That's Good," :
               (scorePerCent >= 50) ? "Good," :
-              (scorePerCent >= 40) ? "You can do better," :
-              (scorePerCent >= 0) ? "Try harder," :
-              "gg";
+              (scorePerCent >= 40) ? "You can do better," :      
+              "Try harder";
               
     let img = (scorePerCent >= 70) ? "Images/a.webp":
-              (scorePerCent >= 60) ? "images/b.gif" :
+              (scorePerCent >= 60) ? "images/c.gif" :
               (scorePerCent >= 50) ? "Images/c.gif" :
               (scorePerCent >= 40) ? "Images/d.webp" :
               "images/d.webp";
