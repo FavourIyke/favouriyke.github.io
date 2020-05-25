@@ -16,7 +16,7 @@ var questions = [
         question:"Mary's father had 5 children - Mimi, Mumu, Mama, Meme, What was the 5th child's name?",
         choiceA : "Mary",
         choiceB : "Momo",
-        choiceC : "Impossibel to know",
+        choiceC : "Impossibe to know",
         choiceD : "Marie",
         correct : "A"
 
@@ -86,7 +86,7 @@ var questions = [
         correct : "D"
     },
     {
-        question:"A woman has 7 children, half of the are boys, can this statement be true?",
+        question:"A woman has 7 children, half of them are boys, can this statement be true?",
         choiceA : "Yes",
         choiceB : "No",
         choiceC : "Maybe",
