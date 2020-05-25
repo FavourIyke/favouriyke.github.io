@@ -214,8 +214,8 @@ function scoreRender(){
     // choose the image based on the scorePerCent
     let remark = (scorePerCent >= 80) ? "Excellent,":
              (scorePerCent >= 70) ? "Great Job," :
-              (scorePerCent >= 60) ? "That's Good," :
-              (scorePerCent >= 50) ? "Good," :
+              (scorePerCent >= 60) ? "You did well," :
+              (scorePerCent >= 50) ? "Good one," :
               (scorePerCent >= 40) ? "You can do better," :      
               "Try harder";
               
