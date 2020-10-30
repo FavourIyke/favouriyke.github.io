@@ -2,6 +2,7 @@
 Web based quiz
 
 This is a web based quiz app created with pure JavaScript
+
 It's features:
 1. Multi Choice questions
 2. Audio sound
